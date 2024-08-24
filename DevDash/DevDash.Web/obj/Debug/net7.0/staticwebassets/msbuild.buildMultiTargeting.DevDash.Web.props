@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DevDash.Web.props" />
+</Project>
