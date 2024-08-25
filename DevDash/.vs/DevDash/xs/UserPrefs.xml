@@ -2,15 +2,16 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DevDash.Web/Program.cs">
     <Files>
-      <File FileName="DevDash.Web/Program.cs" Line="20" Column="1" />
+      <File FileName="DevDash.Web/Program.cs" Line="20" Column="27" />
+      <File FileName="DevDash.Web/Controllers/HomeController.cs" Line="30" Column="42" />
+      <File FileName="DevDash.Web/Models/devDashDbContext.cs" Line="30" Column="31" />
+      <File FileName="DevDash.Web/devdash.db" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DevDash" expanded="True">
-            <Node name="DevDash.Web" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="DevDash">
+            <Node name="DevDash.Web" expanded="True" />
           </Node>
         </State>
       </Pad>
