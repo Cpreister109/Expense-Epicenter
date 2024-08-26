@@ -18,5 +18,43 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #121212;
+    color: #e0e0e0;
+    padding: 0;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.container-fluid {
+    background-color: #121212;
+}
+
+.navbar {
+    background-color: #121212;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid #333;
+}
+
+th {
+    background-color: #1e1e1e;
+}
+
+table {
+    background-color: #121212;
+}
+
+tr:hover {
+    background-color: #333;
 }
