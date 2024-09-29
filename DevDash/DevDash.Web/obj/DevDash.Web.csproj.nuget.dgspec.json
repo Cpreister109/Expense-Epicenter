@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cadepreister/Desktop/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj": {}
+    "/Users/cadepreister/Desktop/C# Projects/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj": {}
   },
   "projects": {
-    "/Users/cadepreister/Desktop/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj": {
+    "/Users/cadepreister/Desktop/C# Projects/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cadepreister/Desktop/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj",
+        "projectUniqueName": "/Users/cadepreister/Desktop/C# Projects/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj",
         "projectName": "DevDash.Web",
-        "projectPath": "/Users/cadepreister/Desktop/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj",
+        "projectPath": "/Users/cadepreister/Desktop/C# Projects/DevLogMVC/DevDash/DevDash.Web/DevDash.Web.csproj",
         "packagesPath": "/Users/cadepreister/.nuget/packages/",
-        "outputPath": "/Users/cadepreister/Desktop/DevLogMVC/DevDash/DevDash.Web/obj/",
+        "outputPath": "/Users/cadepreister/Desktop/C# Projects/DevLogMVC/DevDash/DevDash.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cadepreister/.nuget/NuGet/NuGet.Config"
